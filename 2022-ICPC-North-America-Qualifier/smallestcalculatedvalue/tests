@@ -1,0 +1,17 @@
+-1
+DEFAULT
+__TEST__
+2 3 5
+__OUT__
+0
+__TEST__
+__TEST__
+9 9 9
+__OUT__
+0
+__TEST__
+__TEST__
+5 7 3
+__OUT__
+1
+__TEST__

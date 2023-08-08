@@ -1,0 +1,77 @@
+1
+__TEST__
+10 9
+__OUT__
+209/229
+__TEST__
+1: 8
+2: 8
+3: 7
+4: 7
+5,6: 6
+7: 4
+8: 2
+9: 0
+10: -1
+
+.........................
+.........................
+............t............
+...........tXt...........9
+..........XXXXX..........8
+........sXXXXXXXs........7
+......ssXXXXXXXXXss......6
+......sXXXXXXXXXXXs......5
+.....sXXXXXXXXXXXXXs.....4
+.....XXXXXXXXXXXXXXX.....3
+....XXXXXXXXXXXXXXXXX....2
+...tXXXXXXXXXXXXXXXXXt...1
+..tXXXXXXXXXXXXXXXXXXXt..0
+...tXXXXXXXXXXXXXXXXXt...
+....XXXXXXXXXXXXXXXXX....
+.....XXXXXXXXXXXXXXX.....
+.....sXXXXXXXXXXXXXs.....
+......sXXXXXXXXXXXs......
+......ssXXXXXXXXXss......
+........sXXXXXXXs........
+..........XXXXX..........
+...........tXt...........
+............t............
+.........................
+.........................
+
+__TEST__
+100 0
+__OUT__
+1
+__TEST__
+__TEST__
+0 0
+__OUT__
+1
+__TEST__
+__TEST__
+1 2
+__OUT__
+5/13
+__TEST__
+__TEST__
+4 4
+__OUT__
+41/49
+__TEST__
+__TEST__
+6 6
+__OUT__
+17/21
+__TEST__
+__TEST__
+3 7
+__OUT__
+25/141
+__TEST__
+__TEST__
+7 3
+__OUT__
+1
+__TEST__

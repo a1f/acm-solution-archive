@@ -1,0 +1,27 @@
+-1
+DEFAULT
+__TEST__
+4 5 3
+.....
+..P#.
+..PPE
+..P.E
+__OUT__
+4
+__TEST__
+__TEST__
+3 3 5
+...
+P#P
+P#E
+__OUT__
+2
+__TEST__
+__TEST__
+3 3 6
+...
+P#P
+P#E
+__OUT__
+3
+__TEST__
